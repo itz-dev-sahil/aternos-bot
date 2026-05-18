@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SahilBhai",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "SahilBhai",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "vastland-7sZX.aternos.me",
+    "port": 35473,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "truegamerolny"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "guys dc ao",
+        "krish ka gana sunega bol",
+        "vc mai aja"
       ]
     },
     "chat-log": true,
