@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SahilBhai",
+    "username": "Technoo",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "truegamerolny"
+      "password": "truegsggrfgsd"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "guys dc ao",
-        "krish ka gana sunega bol",
-        "vc mai aja"
+        "i",
+        "o"
       ]
     },
     "chat-log": true,
