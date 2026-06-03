@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vastland-7sZX.aternos.me",
-    "port": 35473,
+    "port": 35273,
     "version": "1.20.1",
     "try-creative": false
   },
