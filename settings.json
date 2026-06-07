@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ns570401.seedloaf.com",
-    "port": 49358,
+    "ip": "vastland.seedloaf.gg",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
