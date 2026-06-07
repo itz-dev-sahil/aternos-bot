@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vastland.play.hosting",
-    "port": 17973,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
