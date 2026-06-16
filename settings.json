@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Putter",
+    "username": "Kanika",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "DemonSlayer14.play.hosting",
+    "ip": "GOLDPVP.play.hosting",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 2000,
       "messages": [
-        "bhai mai dc mai hi hu",
-        "tmkc",
-        "hat"
+        "abe a pvp kare",
+        "bhai sun na",
+        "o bhai meri pickaxe de"
       ]
     },
     "chat-log": true,
