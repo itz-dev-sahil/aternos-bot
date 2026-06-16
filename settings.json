@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GOLDPVP.play.hosting",
-    "port": 25565,
+    "ip": "62.141.62.24",
+    "port": 25203,
     "version": "1.20.1",
     "try-creative": false
   },
