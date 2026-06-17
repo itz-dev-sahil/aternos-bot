@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "demonslayer14.seedloaf.gg",
-    "port": 25565,
+    "ip": "62.141.62.31",
+    "port": 36909,
     "version": "1.20.1",
     "try-creative": false
   },
