@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GOLDPVP.play.hosting",
+    "ip": "demonslayer14.seedloaf.gg",
     "port": 25565,
-    "version": "1.21.11",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 2000,
       "messages": [
-        "abe a pvp kare",
-        "bhai sun na",
+        "tmkc",
+        "hat bhadwa",
         "o bhai meri pickaxe de"
       ]
     },
