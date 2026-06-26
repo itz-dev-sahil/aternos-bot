@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "littlelifesteal.play.hosting",
-    "port": 25565,
+    "ip": "f1.rustix.me",
+    "port": 34102,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 2000,
       "messages": [
-        "tmkc",
+        "/server lifesteal",
         "hat bhadwa",
         "o bhai meri pickaxe de"
       ]
