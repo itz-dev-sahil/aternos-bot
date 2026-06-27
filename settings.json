@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Kanika",
+    "username": "Inkai",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "f1.rustix.me",
-    "port": 34102,
+    "ip": "vastland.play.hosting",
+    "port": 48542,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 2000,
       "messages": [
-        "/server lifesteal",
-        "hat bhadwa",
+        "nice",
+        "join vc",
         "o bhai meri pickaxe de"
       ]
     },
