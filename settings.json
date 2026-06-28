@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yobro.play.hosting",
-    "port": 25565,
+    "ip": "62.141.62.27",
+    "port": 62719,
     "version": "1.20.1",
     "try-creative": false
   },
