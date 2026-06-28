@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vastland.play.hosting",
+    "ip": "yobro.play.hosting",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -33,7 +33,7 @@
       "messages": [
         "nice",
         "join vc",
-        "o bhai meri pickaxe de"
+        "gud luck bro"
       ]
     },
     "chat-log": true,
