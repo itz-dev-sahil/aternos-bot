@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 2000,
       "messages": [
-        "T-T",
-        "dirt "
+        "/waps",
+        "/warp survival "
       ]
     },
     "chat-log": true,
