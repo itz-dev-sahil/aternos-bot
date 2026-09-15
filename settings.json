@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "akshu628",
+    "username": "drilla",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "5.83.132.171",
-    "port": 26587,
+    "ip": "sgp4.bytenut.cc",
+    "port": 31261,
     "version": "1.20.1",
     "try-creative": false
   },
